@@ -1,4 +1,4 @@
-/**
-*this is a pachage name.
-/*
-package com.example;
+ /**
+  *this is a pachage name.
+  */
+ package com.example;
